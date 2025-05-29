@@ -2,22 +2,46 @@
 
 Finalized modular prompt system for advanced job search support with role targeting, company filtering, and metadata structuring.
 
-## 📄 Documentation
+---
 
-- [Prompt File](docs/Atlas%20Job%20Suite%20%E2%80%94%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2%20Final%20UX%20Walkthrough%20Report.docx)
-- [Role & Title Assistant](../atlas-suite-role-title-assistant-v1-1)
-- [Company Search Assistant](../atlas-suite-company-search-v1-1-2)
-- [Legal & Attribution](docs/Atlas%20Job%20Suite%20%E2%80%94%20Legal%20Documentation.docx)
-- [Summary of Key Deliverables](docs/Summary%20of%20Key%20Deliverables%20Atlas%20Job%20Search%20Agent%20Pro%20v4.2.docx)
-- [Compatibility Notice (All Atlas Modules)](docs/08%20–%20Compatibility%20Notice%20–%20Applies%20to%20All%20Atlas%20Modules%20(Web%20Access%20Required).docx)
+## 🔹 Start Here
 
-
-## 🔗 Related Modules
-
-- [`atlas-suite-role-title-assistant-v1-1`](../atlas-suite-role-title-assistant-v1-1) – user-facing title filter
-- [`atlas-suite-company-search-v1-1-2`](../atlas-suite-company-search-v1-1-2) – remote-friendly company targeting
-- [`atlas-suite-recruiter-partner-prompt-v1-1`](../atlas-suite-recruiter-partner-prompt-v1-1) – short-form prompt to refine recruiter outreach
+📄 **[Open the Prompt File](docs/01_prompt_atlas-v4.2.docx)**  
+This is the primary file for this module.
 
 ---
 
-This prompt is part of the Atlas Suite — an AI-assisted job search toolkit designed to support real-world job seekers under stress, burnout, or clarity fatigue.
+## 🧭 Overview
+
+This prompt is part of the **Atlas Suite** — an AI-assisted job search toolkit designed to support real-world job seekers under stress, burnout, or clarity fatigue. It enables structured job targeting through user-defined role preferences, metadata tagging, and recruiter-ready formatting logic.
+
+The system is built to reduce overwhelm, support accessibility, and streamline AI-supported workflows without sacrificing personalization.
+
+---
+
+## 📂 What’s Inside
+
+- 🧩 **[Prompt File](docs/01_prompt_atlas-v4.2.docx)** – modular job search logic
+- 🗺️ **[Role & Title Assistant](docs/linked-role-title-doc)** – title-specific filtering
+- 🏢 **[Company Search Assistant](docs/linked-company-doc)** – remote-friendly filtering
+- 📜 **[Legal & Attribution](docs/legal-doc-link)** – licensing, credit, and attribution
+- 📊 **[Summary of Key Deliverables](docs/key-deliverables-link)** – scope and modular structure
+- 🔗 **[Compatibility Notice](docs/compatibility-link)** – cross-module usage guide
+
+(*Replace `docs/...` with working filenames once confirmed.*)
+
+---
+
+## 🔗 Related Modules (Part of Atlas Suite)
+
+- [`atlas-suite-role-title-assistant-v1-1`](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) – user-facing title filter  
+- [`atlas-suite-company-search-v1-1-2`](https://github.com/AHFaria/atlas-suite-company-search-v1-1-2) – company targeting  
+- [`atlas-suite-recruiter-partner-prompt-v1-1`](https://github.com/AHFaria/atlas-suite-recruiter-partner-prompt-v1-1) – recruiter outreach support  
+
+---
+
+## 💬 Notes
+
+- This prompt was developed as part of an independent portfolio focused on metadata accuracy, AI content QA, and neurodivergent-aligned workflow design.
+- For more modules, visit [AHFaria GitHub](https://github.com/AHFaria).
+
