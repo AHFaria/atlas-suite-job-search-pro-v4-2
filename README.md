@@ -6,7 +6,7 @@ Finalized modular prompt system for advanced job search support with role target
 
 ## 🔹 Start Here
 
-📄 **[Open the Prompt File](docs/01%20%E2%80%93%20Prompt%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)**  
+📄 **[Open the Prompt File](docs/01-prompt-atlas-v4.2.docx)**  
 This is the primary file for this module.
 
 ---
@@ -21,14 +21,12 @@ The system is built to reduce overwhelm, support accessibility, and streamline A
 
 ## 📂 What’s Inside
 
-- 🧩 **[Prompt File](docs/01%20%E2%80%93%20Prompt%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)** – modular job search logic  
-- 🧭 **[UX Walkthrough](docs/02%20%E2%80%93%20UX%20Walkthrough%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)** – visual behavior report  
-- 📊 **[Summary of Key Deliverables](docs/03%20%E2%80%93%20Key%20Deliverables%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)** – scope and modular structure  
-- 📜 **[Legal & Attribution](docs/04%20%E2%80%93%20Legal%20%26%20Attribution%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)** – licensing, credit, and attribution  
-- 🧾 **[Capability Audit (April)](docs/05%20%E2%80%93%20Capability%20Audit%20%28April%29%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)**  
-- 🧾 **[Capability Audit (May)](docs/06%20%E2%80%93%20Capability%20Audit%20%28May%29%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)**  
-- 📂 **[Audit Archive](docs/07%20%E2%80%93%20Archive%20%E2%80%93%20Full%20Audit%20Report%20%E2%80%93%20Atlas%20Job%20Search%20Agent%20Plus-Pro%20v4.2.docx)**  
-- 🔗 **[Compatibility Notice (All Modules)](docs/Atlas%20Job%20Suite%20%E2%80%93%20Compatibility%20Warning%20%E2%80%93%20Web%20Access%20Required.docx)** – cross-module usage guide
+- 🧩 **[Prompt File](docs/01-prompt-atlas-v4.2.docx)** – modular job search logic  
+- 🗺️ **[Role & Title Assistant](docs/linked-role-title-doc.docx)** – title-specific filtering  
+- 🏢 **[Company Search Assistant](docs/linked-company-doc.docx)** – remote-friendly filtering  
+- 📜 **[Legal & Attribution](docs/04-legal-attribution-atlas-v4.2.docx)** – licensing, credit, and attribution  
+- 📊 **[Summary of Key Deliverables](docs/03-key-deliverables-atlas-v4.2.docx)** – scope and modular structure  
+- 🔗 **[Compatibility Notice](docs/atlas-suite-compatibility-warning.docx)** – cross-module usage guide
 
 ---
 
