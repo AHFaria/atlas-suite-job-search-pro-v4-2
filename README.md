@@ -33,9 +33,9 @@ The system is built to reduce overwhelm, support accessibility, and streamline A
 
 ## 🔗 Related Modules (Part of Atlas Suite)
 
-- [`atlas-suite-role-title-assistant-v1-1`](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) – user-facing title filter  
-- [`atlas-suite-company-search-v1-1-2`](https://github.com/AHFaria/atlas-suite-company-search-v1-1-2) – company targeting  
-- [`atlas-suite-recruiter-partner-prompt-v1-1`](https://github.com/AHFaria/atlas-suite-recruiter-partner-prompt-v1-1) – recruiter outreach support  
+- [`atlas-suite-role-title-assistant-v1-1`](https://github.com/AHFaria/docs-atlas-suite-role-title-assistant-v1-1) – user-facing title filter  
+- [`atlas-suite-company-search-v1-1-2`](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) – company targeting  
+- [`atlas-suite-recruiter-partner-prompt-v1-1`](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1) – recruiter outreach support  
 
 ---
 
