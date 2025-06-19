@@ -6,7 +6,7 @@ Finalized modular prompt system for advanced job search support with role target
 
 ## 🔹 Start Here
 
-📄 **[Open the Prompt File](docs/01-prompt-atlas-v4.2.docx)**  
+📄 **[Open the Prompt File](docs/00-talent-prompt-recruiter.docx)**  
 This is the primary file for this module.
 
 ---
@@ -21,12 +21,13 @@ The system is built to reduce overwhelm, support accessibility, and streamline A
 
 ## 📂 What’s Inside
 
-- 🧩 **[Prompt File](docs/01-prompt-atlas-v4.2.docx)** – modular job search logic  
-- 🗺️ **[Role & Title Assistant](docs/linked-role-title-doc.docx)** – title-specific filtering  
-- 🏢 **[Company Search Assistant](docs/linked-company-doc.docx)** – remote-friendly filtering  
-- 📜 **[Legal & Attribution](docs/04-legal-attribution-atlas-v4.2.docx)** – licensing, credit, and attribution  
-- 📊 **[Summary of Key Deliverables](docs/03-key-deliverables-atlas-v4.2.docx)** – scope and modular structure  
-- 🔗 **[Compatibility Notice](docs/atlas-suite-compatibility-warning.docx)** – cross-module usage guide
+- 🧩 **[Prompt File](docs/00-talent-prompt-recruiter.docx)** – modular job search logic  
+- 🧪 **[UX Walkthrough](docs/ux-walkthrough-jobsearch.docx)** – AI behavior test file  
+- 📊 **[Summary of Key Deliverables](docs/key-deliverables-jobsearch.docx)** – scope and modular structure  
+- 🧮 **[Capability Audit](docs/capability-audit-jobsearch.docx)** – system capabilities overview  
+- 📁 **[Full Audit Archive (v4.1)](docs/full-audit-archive-v4.1.docx)** – archived evaluation & trace files  
+- 📝 **[Change Log](docs/changelog-jobsearch.docx)** – update history  
+- 📜 **[Legal & Attribution](docs/compatibility-notice-atlas.docx)** – licensing and usage warning
 
 ---
 
