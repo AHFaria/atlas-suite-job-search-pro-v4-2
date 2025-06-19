@@ -6,7 +6,7 @@ Finalized modular prompt system for advanced job search support with role target
 
 ## 🔹 Start Here
 
-📄 **[Open the Prompt File](docs/01_prompt_atlas-v4.2.docx)**  
+📄 **[Open the Prompt File](docs/01 – Prompt – Atlas Job Search Agent Plus-Pro v4.2.docx)**  
 This is the primary file for this module.
 
 ---
@@ -21,14 +21,12 @@ The system is built to reduce overwhelm, support accessibility, and streamline A
 
 ## 📂 What’s Inside
 
-- 🧩 **[Prompt File](docs/01_prompt_atlas-v4.2.docx)** – modular job search logic
-- 🗺️ **[Role & Title Assistant](docs/linked-role-title-doc)** – title-specific filtering
-- 🏢 **[Company Search Assistant](docs/linked-company-doc)** – remote-friendly filtering
-- 📜 **[Legal & Attribution](docs/legal-doc-link)** – licensing, credit, and attribution
-- 📊 **[Summary of Key Deliverables](docs/key-deliverables-link)** – scope and modular structure
-- 🔗 **[Compatibility Notice](docs/compatibility-link)** – cross-module usage guide
-
-(*Replace `docs/...` with working filenames once confirmed.*)
+- 🧩 **[Prompt File](docs/01 – Prompt – Atlas Job Search Agent Plus-Pro v4.2.docx)** – modular job search logic  
+- 🗺️ **[Role & Title Assistant](docs/linked-role-title-doc)** – title-specific filtering  
+- 🏢 **[Company Search Assistant](docs/linked-company-doc)** – remote-friendly filtering  
+- 📜 **[Legal & Attribution](docs/04 – Legal & Attribution – Atlas Job Search Agent Plus-Pro v4.2.docx)** – licensing, credit, and attribution  
+- 📊 **[Summary of Key Deliverables](docs/03 – Key Deliverables – Atlas Job Search Agent Plus-Pro v4.2.docx)** – scope and modular structure  
+- 🔗 **[Compatibility Notice](docs/Atlas Job Suite – Compatibility Warning – Web Access Required.docx)** – cross-module usage guide
 
 ---
 
